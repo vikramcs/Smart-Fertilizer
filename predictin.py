@@ -3,9 +3,7 @@
 FERTILIZER PREDICTION
 Framework : Tensorflow
 DL tools : Deep Neural Net
-Code developed by : Sougata Hanra & Suvam Das
-github : @hanras97 , @suvam14das
-Dataset developed by: Suvam Das (@suvam14das)
+Code developed by : vikram kumar
 *without GUI
 ####################################################################################################################################
 '''
